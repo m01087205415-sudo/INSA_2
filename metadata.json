@@ -1,0 +1,6 @@
+{
+  "name": "양우종합건설 스마트 급여계산기",
+  "description": "양우종합건설 엑셀 기반 스마트 급여계산기, 급여 결재 승인 워크플로, 법정 기재사항 급여명세서 PDF 생성 및 개별 이메일 발송 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
